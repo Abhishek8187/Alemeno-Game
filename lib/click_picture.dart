@@ -1,3 +1,4 @@
+import 'package:abhishek_kannaujia/share_picture.dart';
 import 'package:flutter/material.dart';
 import 'package:camera/camera.dart';
 
@@ -46,6 +47,7 @@ class _ClickPictureState extends State<ClickPicture> {
       // Do something with the captured imageFile, such as saving it or displaying it
       if (imageFile != null) {
         print('image clicked..........');
+        Navigator.push(context, MaterialPageRoute(builder: (context)=>SharePicture(image: imageFile)));
         // Handle the captured imageFile
         // For example, you can pass it to another screen or display it in an Image widget
         setState(() {
@@ -136,8 +138,8 @@ class _ClickPictureState extends State<ClickPicture> {
                          //****** camera *****//
                          ClipOval(
                            child: Container(
-                               height:200,
-                               width:200,
+                               height:(0.25*screenHeight),
+                               width:(0.25*screenHeight),
                                decoration: BoxDecoration(
                                 // borderRadius: BorderRadius.circular(100)
                                ),
