@@ -37,7 +37,7 @@ class _ClickPictureState extends State<ClickPicture> {
         setState(() {});
       });
     }else{
-      print("NO  camera found");
+      print("No camera found");
     }
   }
 
