@@ -4,13 +4,26 @@ A new Flutter project.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+This is a game where you will feed the animal with different foods.
 
-A few resources to get you started if this is your first Flutter project:
+The size of animal will increase when you feed the animal.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+All the clicked images will get saved on Firebase Storage.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+(I have removed google jason file due to security reasons. You may add your own)
+
+
+![WhatsApp Image 2023-06-09 at 6 55 59 PM](https://github.com/Abhishek8187/Alemeno-Game/assets/72517135/61f9294f-b110-4416-94b6-d8e72a01f5ae)
+
+
+
+![WhatsApp Image 2023-06-09 at 6 56 00 PM](https://github.com/Abhishek8187/Alemeno-Game/assets/72517135/c4d93d56-19a8-43bc-8900-39093407d25a)
+
+
+
+![WhatsApp Image 2023-06-09 at 6 56 00 PM (1)](https://github.com/Abhishek8187/Alemeno-Game/assets/72517135/67888022-4cee-4721-aff8-572c776e0332)
+
+
+
+![WhatsApp Image 2023-06-09 at 6 56 01 PM](https://github.com/Abhishek8187/Alemeno-Game/assets/72517135/55c74462-67c9-4e09-896a-86f10cd34b28)
+
