@@ -14,16 +14,10 @@ All the clicked images will get saved on Firebase Storage.
 
 
 ![WhatsApp Image 2023-06-09 at 6 55 59 PM](https://github.com/Abhishek8187/Alemeno-Game/assets/72517135/61f9294f-b110-4416-94b6-d8e72a01f5ae)
-
-
-
 ![WhatsApp Image 2023-06-09 at 6 56 00 PM](https://github.com/Abhishek8187/Alemeno-Game/assets/72517135/c4d93d56-19a8-43bc-8900-39093407d25a)
-
-
-
 ![WhatsApp Image 2023-06-09 at 6 56 00 PM (1)](https://github.com/Abhishek8187/Alemeno-Game/assets/72517135/67888022-4cee-4721-aff8-572c776e0332)
-
-
-
 ![WhatsApp Image 2023-06-09 at 6 56 01 PM](https://github.com/Abhishek8187/Alemeno-Game/assets/72517135/55c74462-67c9-4e09-896a-86f10cd34b28)
+![Screenshot (271)](https://github.com/Abhishek8187/Alemeno-Game/assets/72517135/e5a99384-bb0e-49a9-958c-01b82c29e24d)
+
+![Screenshot (272)](https://github.com/Abhishek8187/Alemeno-Game/assets/72517135/4a815fef-6f28-4e0a-b255-1a4900f06f5d)
 
