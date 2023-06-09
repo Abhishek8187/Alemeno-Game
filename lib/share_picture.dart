@@ -119,7 +119,7 @@ class _SharePictureState extends State<SharePicture> {
                             sizeProvider.increaseSize();
                             isSizeIncreased = true;
                             Fluttertoast.showToast(
-                                msg: "Thank you for sharing food with me!",
+                                msg: "Thank you for sharing food with me",
                                 toastLength: Toast.LENGTH_SHORT,
                                 gravity: ToastGravity.BOTTOM,  //these all properties are working in mobile but not in emulator
                                 timeInSecForIosWeb: 1,
