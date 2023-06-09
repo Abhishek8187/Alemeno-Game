@@ -102,7 +102,7 @@ class _SharePictureState extends State<SharePicture> {
                         ),
                       ),
                       const Text(
-                        "Will you eat this?",
+                        "Will you eat this ?",
                         style: TextStyle(
                             fontFamily: 'Andika',
                             fontWeight: FontWeight.w400,
