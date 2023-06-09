@@ -1,4 +1,4 @@
-import 'package:abhishek_kannaujia/click_picture.dart';
+import 'package:abhishek_kannaujia/Screens/click_picture.dart';
 import 'package:flutter/material.dart';
 
 class HomeScreen extends StatelessWidget {

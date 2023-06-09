@@ -1,4 +1,4 @@
-import 'package:abhishek_kannaujia/share_picture.dart';
+import 'package:abhishek_kannaujia/Screens/share_picture.dart';
 import 'package:abhishek_kannaujia/utils/round_button.dart';
 import 'package:flutter/material.dart';
 import 'package:camera/camera.dart';
