@@ -6,8 +6,7 @@ class SizeIncrease with ChangeNotifier{
   int get size => _size;
 
   void increaseSize(){
-    _size = _size+20;
+    _size = _size+30;
     notifyListeners();
-
   }
 }
