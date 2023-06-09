@@ -18,7 +18,7 @@ class HomeScreen extends StatelessWidget {
               child: Center(
                 child: InkWell(
                   onTap: (){
-                    Navigator.push(context, MaterialPageRoute(builder: (context)=>ClickPicture()));
+                    Navigator.push(context, MaterialPageRoute(builder: (context)=>const ClickPicture()));
                   },
                   child: Container(
                     decoration: BoxDecoration(
@@ -34,7 +34,7 @@ class HomeScreen extends StatelessWidget {
                         ), //BoxShadow//BoxShadow
                       ],
                       borderRadius: BorderRadius.circular(50),
-                      color: Color(0xFF3E8B3A),
+                      color: const Color(0xFF3E8B3A),
                     ),
                     width: (0.6*screenWidth),
                     height: (0.12*screenWidth),
